@@ -1,11 +1,11 @@
 h1{
   text-align: center;
-  font-size: 500em;
+  font-size: 4.2em;
   color: grey;
 }
 h2{
   text-align: center;
-  font-size: 1em;
+  font-size: 2.5em;
   color:grey;
 }
 img{
@@ -17,5 +17,7 @@ img{
   margin-right: auto;
   width: 35%;
   border-radius: 50%;
-  background-color: black;
+}
+.carousel-inner{
+  padding-bottom: 75px;
 }
