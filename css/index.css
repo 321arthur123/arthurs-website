@@ -27,9 +27,8 @@ li:hover {
 }
   a { text-decoration: none; }
   body {
-    background-image: url('images/background-good.jpg');
+    background-image: url('../images/background-good.jpg');
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
-    color: red;
   }
