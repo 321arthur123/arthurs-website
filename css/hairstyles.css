@@ -1,5 +1,29 @@
 h1{
   text-align: center;
-  font-size: 4.2em;
-  color: darkgrey;
+  font-size: 4em;
+  color: grey;
+}
+.main{
+  text-align: center;
+  font-size: 1.3em;
+  color: grey;
+}
+p{
+padding-left: 20px;
+padding-right: 20px;
+}
+img{
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.style2{
+  text-align: right;
+  float:left;
+}
+.style2img{
+  padding-top: 320px;
+}
+h4{
+  padding-top: 20px;
+  padding-left: 20px;
 }
