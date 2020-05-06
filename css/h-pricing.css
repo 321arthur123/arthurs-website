@@ -9,10 +9,13 @@ h1{
   color: grey;
 }
 ul{
-  list-style: none;
   text-align: left;
 }
 h4{
+  text-align: left;
+  padding-left: 20px;
+}
+p{
   text-align: left;
   padding-left: 20px;
 }
