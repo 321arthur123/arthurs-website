@@ -8,3 +8,10 @@ h3{
   color: grey;
   font-size: 1.5em;
 }
+h4{
+  text-align: left;
+  padding-left: 20px;
+}
+ul{
+  text-align: left;
+}
