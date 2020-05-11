@@ -29,3 +29,11 @@ h3{
   text-align: center;
   color: grey;
 }
+.about{
+  text-align: left;
+  padding-left: 50px;
+    padding-right: 50px;
+  padding-bottom: 50px;
+  color: rgb(117, 115, 109);
+  font-size: 1.2em;
+}
