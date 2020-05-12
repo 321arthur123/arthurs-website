@@ -1,6 +1,4 @@
-body {
 
-}
 h1{
 color: white;
 text-align: center;
@@ -17,6 +15,6 @@ h2{
 .title{
   background-image: url(../images/burger/burger2.jpg);
   background-size: cover;
-  background-repeat: no-repeat;
+  background-repeat: round;
   height:700px;
 }
