@@ -4,19 +4,24 @@
   background-repeat:round;
   height: 800px;
 }
-h2{
-  text-align: center;
-  color: white;
-  padding-top: 50px;
-  padding-bottom: 50px;
-  font-size: 5em;
-  text-decoration: underline;
-  background-color: rgb(36, 34, 34);
-}
 h1{
   color: white;
   text-align: right;
   padding-right: 200px;
   padding-top:150px;
   font-size: 6em;
+}
+
+.white{
+  text-align: center;
+  color: grey;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  font-size: 5em;
+  background-color: white;
+}
+.white:hover{
+  background-color: grey;
+  color:white;
+    transition: 0.7s;
 }
