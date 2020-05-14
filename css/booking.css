@@ -6,3 +6,15 @@ body{
   margin-left: -50px;
   margin-right: -50px;
 }
+.booking{
+  background-image: url(../images/burger/booking.png);
+  background-size:cover;
+  background-repeat:round;
+  height: 800px;
+}
+.contact{
+  background-image: url(../images/burger/contact-us.png);
+  background-size:cover;
+  background-repeat:round;
+  height: 700px;
+}
